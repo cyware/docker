@@ -1,1 +1,3 @@
-# docker
+One aspect of the CYWare project involves providing [Docker images of popular malware analysis tools](https://docs.cyware.org/#run-in-containers), with the goal of allowing investigators to conveniently utilize difficult-to-install applications without having to install the CYWare distro. You can [download and run existing images](https://docs.cyware.org/run-tools-in-containers/cyware-containers) and [contribute your own](https://docs.cyware.org/get-involved/add-or-update-tools/contribute-dockerfile) to the CYWare collection. You can also [run the CYWare distro as a Docker container](https://docs.cyware.org/install-distro/cyware-as-a-container) by using the prebuilt Docker image hosted in the CYWare repository on Docker Hub.
+
+This Github repository hosts the Dockerfiles themselves. The resulting images are built and hosted at [Docker Hub](https://hub.docker.com/u/cyware/).
